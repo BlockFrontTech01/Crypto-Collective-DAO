@@ -7,11 +7,11 @@ const Header = () => {
   const [isDAOmenuOpen, setDAOmenuOpen] = useState(false);
 
   const onFrameButtonClick = useCallback(() => {
-    window.open("https://blockfronttech.vercel.app");
+    window.open("https://jeffspace.vercel.app");
   }, []);
 
   const onFrameButton1Click = useCallback(() => {
-    window.open("https://blockfronttech.vercel.app");
+    window.open("https://jeffspace.vercel.app");
   }, []);
 
   const openDAOmenu = useCallback(() => {
